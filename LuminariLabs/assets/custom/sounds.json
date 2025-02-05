@@ -1,0 +1,38 @@
+{
+  "audio1": {
+    "sounds": [
+      "custom:alert1"]
+          },
+  "audio2": {
+    "sounds": [
+      "custom:alert2"]
+          },
+  "audio3": {
+    "sounds": [
+      "custom:alert3"]
+          },
+  "audio4": {
+    "sounds": [
+      "custom:alert4"]
+          },
+  "audio6": {
+    "sounds": [
+      "custom:alert6"]
+          },
+ "audio7": {
+    "sounds": [
+      "custom:alert7"]
+          },
+ "audio5": {
+    "sounds": [
+      "custom:alert5"]
+          },
+ "audio8": {
+    "sounds": [
+      "custom:alert8"]
+          },
+ "audio9": {
+    "sounds": [
+      "custom:alert9"]
+          }
+}
